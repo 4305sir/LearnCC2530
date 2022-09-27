@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>4052186757</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\code\oled\HAL_LCD_SPI\hal_lcd_spi.h</file>
+            <file>$PROJ_DIR$\code\uart\uart.c</file>
+            <file>$PROJ_DIR$\code\uart\uart.h</file>
+            <file>$PROJ_DIR$\code\utils\utils.c</file>
+            <file>$PROJ_DIR$\code\timer\timer.c</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+            <file>$PROJ_DIR$\code\oled\HAL_OLED\hal_oled12864.c</file>
+            <file>$PROJ_DIR$\Debug\Exe\Main.hex</file>
+            <file>$PROJ_DIR$\code\oled\Font\font_v_8x16.h</file>
+            <file>$PROJ_DIR$\code\oled\oled.h</file>
+            <file>$PROJ_DIR$\code\oled\HAL_LCD_SPI\SPI_Driver\sw_spi.h</file>
+            <file>$PROJ_DIR$\code\timer\timer.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+            <file>$PROJ_DIR$\code\utils\utils.h</file>
+            <file>$PROJ_DIR$\code\oled\HAL_LCD_SPI\SPI_Driver\hw_spi.h</file>
+            <file>$PROJ_DIR$\code\oled\oled.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+            <file>$PROJ_DIR$\code\oled\HAL_LCD_SPI\SPI_Driver\sw_spi.c</file>
+            <file>$PROJ_DIR$\code\oled\HAL_LCD_SPI\SPI_Driver\hw_spi.c</file>
+            <file>$PROJ_DIR$\code\oled\Font\font_v_picture.h</file>
+            <file>$PROJ_DIR$\code\oled\HAL_LCD_SPI\SPI_Driver\spi_common.h</file>
+            <file>$PROJ_DIR$\code\oled\HAL_LCD_SPI\hal_lcd_spi.c</file>
+            <file>$PROJ_DIR$\code\oled\HAL_OLED\hal_oled12864.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\uart.r51</file>
+            <file>$PROJ_DIR$\code\utils\cc2530_ioctl.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl-pli-blxd-1e16x01n.r51</file>
+            <file>$PROJ_DIR$\code\adc\hal_adc.h</file>
+            <file>$PROJ_DIR$\code\oled\Font\font_chinese_h_16x16.h</file>
+            <file>$PROJ_DIR$\code\main\main.c</file>
+            <file>$PROJ_DIR$\code\adc\adc.c</file>
+            <file>$PROJ_DIR$\code\oled\Font\font_rgb_picture.h</file>
+            <file>$PROJ_DIR$\code\led\led.c</file>
+            <file>$PROJ_DIR$\code\adc\adc.h</file>
+            <file>$PROJ_DIR$\code\adc\hal_adc.c</file>
+            <file>$PROJ_DIR$\code\key\key.h</file>
+            <file>$PROJ_DIR$\code\led\led.h</file>
+            <file>$PROJ_DIR$\code\key\key.c</file>
+            <file>$PROJ_DIR$\code\main\main.h</file>
+            <file>$PROJ_DIR$\code\oled\Font\font_chinese_v_16x16.h</file>
+            <file>$PROJ_DIR$\code\oled\Font\font_h_8x16.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hw_spi.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\sw_spi.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\key.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_oled12864.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hw_spi.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_oled12864.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\sw_spi.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_lcd_spi.r51</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\stdarg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_lcd_spi.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\adc.r51</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl8051Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\oled.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\key.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\adc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\led.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Exe\Main.d51</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\led.r51</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\utils.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\Main.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\oled.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\Main.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\key.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\oled.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.r51</file>
+            <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc.r51</file>
+            <file>$TOOLKIT_DIR$\inc\ioCC2530.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\utils.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\utils.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\adc.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_CC2530F256_banked.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\led.pbi</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\code\uart\uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 2 43 80 18 13 59 69 58 78 12 21 66 65 19 5 29 32 30 41 14 40 11 9 27 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 80 40 43 27 19 41 2 13 69 21 59 30 18 5 32 14 11 9 66 65 12 58 78 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\utils\utils.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 70</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 14 43 80 18 13 59 69 58 78 12 21 66 65 19 5 29 32 30 41 40 11 2 9 27 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13 41 43 19 2 58 27 80 29 40 65 12 66 18 5 32 14 11 9 59 78 69 21 30 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\timer\timer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 11 43 80 18 13 59 69 58 78 12 21 66 65 19 5 29 32 30 41 14 40 2 9 27 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40 80 29 43 27 19 41 2 13 69 21 59 30 18 5 32 14 11 9 66 65 12 58 78 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\oled\HAL_OLED\hal_oled12864.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 27 44 8 0 10 25 29 80 19 13 59 69 58 78 12 21 15 14 43 18 66 65 5 32 30 41 40 11 2 9 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 18 14 10 29 59 32 13 8 25 80 69 21 5 9 66 30 24 44 0 15 19 12 58 78 43 41 40 2 65 27</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\oled\oled.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\oled\HAL_LCD_SPI\SPI_Driver\sw_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 10 25 29 80 19 13 59 69 58 78 12 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 25 80 69 19 13 21 59 10 12 58 78</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\oled\HAL_LCD_SPI\SPI_Driver\hw_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 15 25 29 80 19 13 59 69 58 78 12 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 25 80 69 19 13 21 59 15 12 58 78</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\oled\HAL_LCD_SPI\hal_lcd_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 0 10 25 29 80 19 13 59 69 58 78 12 21 15 55</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58 13 15 29 25 55 80 12 78 59 0 10 19 69 21</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\main\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 17</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 43 80 18 13 59 69 58 78 12 21 66 65 19 5 29 32 30 41 14 40 11 2 9 27 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 80 40 59 19 41 2 66 18 5 32 14 11 9 13 69 21 30 43 27 65 12 58 78 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\adc\adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 38 43 80 18 13 59 69 58 78 12 21 66 65 19 5 29 32 30 41 14 40 11 2 9 27 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 9 5 14 59 19 43 18 32 11 66 80 29 41 40 2 13 69 21 30 27 38 65 12 58 78 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\led\led.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 41 43 80 18 13 59 69 58 78 12 21 66 65 19 5 29 32 30 14 40 11 2 9 27 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66 12 59 29 13 78 80 19 43 58 18 5 32 65 69 21 30 41 14 40 11 2 9 27 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\adc\hal_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 79</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 20</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 32 30 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30 80 32</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\code\key\key.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 40 43 80 18 13 59 69 58 78 12 21 66 65 19 5 29 32 30 41 14 11 2 9 27 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66 12 59 29 13 78 80 19 43 58 18 5 32 65 69 21 30 40 41 14 11 2 9 27 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 64 74 7</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\Main.d51</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 74 7</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 86 57 79 54 50 46 61 68 81 60 47 77 28 70 31</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>XLINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
